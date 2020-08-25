@@ -1,0 +1,13 @@
+
+组合1：Proxyee Down + 百度网盘助手(谷歌插件)
+优点：能够全速下载百度网盘的资源,也能去全速下载其它HTTP等资源
+缺点：只能下载分享出来的资源，直接下载网盘中的要出错。--在mac下不能直接使用它自带的扩展
+proxyee-down:					https://github.com/proxyee-down-org/proxyee-down/releases
+proxyee-down-extension：			https://github.com/proxyee-down-org/proxyee-down-extension
+
+
+
+
+环境：
+    oracle jdk 1.8+或 openjfx(openjdk默认不包含javafx包)
+
