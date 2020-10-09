@@ -42,6 +42,13 @@
     exit(0);
 }
 
+
+#pragma mark 更新
+- (void)update
+{
+
+}
+
 /**
  直接执行某个文件，
  PS:文件路径允许有空格

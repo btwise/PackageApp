@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F665527253053350061EDEB /* 点击更新 in Resources */ = {isa = PBXBuildFile; fileRef = 3F665526253053350061EDEB /* 点击更新 */; };
 		3F70E72524F4E16F00BD9111 /* ProperTree in Resources */ = {isa = PBXBuildFile; fileRef = 3F70E72424F4E16F00BD9111 /* ProperTree */; };
 		3F91D8C424EFAB2D003C6759 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F91D8C324EFAB2D003C6759 /* AppDelegate.m */; };
 		3F91D8C724EFAB2D003C6759 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F91D8C624EFAB2D003C6759 /* ViewController.m */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F665526253053350061EDEB /* 点击更新 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "点击更新"; sourceTree = "<group>"; };
 		3F70E72424F4E16F00BD9111 /* ProperTree */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ProperTree; sourceTree = "<group>"; };
 		3F91D8BF24EFAB2D003C6759 /* ProperTree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProperTree.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F91D8C224EFAB2D003C6759 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 		3F91D8C124EFAB2D003C6759 /* ProperTree */ = {
 			isa = PBXGroup;
 			children = (
+				3F665526253053350061EDEB /* 点击更新 */,
 				3F91D8D624EFAB42003C6759 /* ProperTree.sh */,
 				3F70E72424F4E16F00BD9111 /* ProperTree */,
 				3F91D8C224EFAB2D003C6759 /* AppDelegate.h */,
@@ -136,6 +139,7 @@
 				3F91D8D724EFAB42003C6759 /* ProperTree.sh in Resources */,
 				3F91D8C924EFAB31003C6759 /* Assets.xcassets in Resources */,
 				3F70E72524F4E16F00BD9111 /* ProperTree in Resources */,
+				3F665527253053350061EDEB /* 点击更新 in Resources */,
 				3F91D8CC24EFAB31003C6759 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
